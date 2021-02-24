@@ -1,7 +1,5 @@
 ### Hola compañeros! 👋
 
-<!--
-**ManuelSifuentes/manuelsifuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna 
 Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones👨‍🏫 ✨.
@@ -17,7 +15,7 @@ Mis áreas de conocimiento son las siguientes:
 - 📫 Mantenimiento a equipo de cómputo ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Atendiendo estudiantes de PFLC y TecTijuana:
 
