@@ -1,5 +1,7 @@
 <img src="https://images.cooltext.com/5508531.png" width="419" height="68" alt="Ingeniero en TIC" />
 
+<img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" />
+
 ### Hola compañeros! 👋
 
 
