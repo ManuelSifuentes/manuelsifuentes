@@ -1,7 +1,8 @@
 ### Hola compañeros! 👋
 
 
-Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna \n
+Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna.
+
 Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones👨‍🏫 ✨.
 
 
