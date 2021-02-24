@@ -4,6 +4,7 @@
 
 
 Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna.
+
 Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones✨.
 
 
@@ -23,6 +24,7 @@ Experiencia laboral
 - 📲 Instalación de cámaras de seguridad CCTV.
 - ⚡ Diagnóstico, instalación, mantenimiento y configuración de equipo de cómputo. 
 - 🖥 Apoyo en la instalación de gabinetes e instalación de cableado de red.
+
   
 
 | Sensores 	|  X 	|  Y  	|
