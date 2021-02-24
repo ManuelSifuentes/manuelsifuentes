@@ -34,5 +34,5 @@ Materias llevadas en 8vo semestre de ingeniería
 | N. Electrónicos   |    x   	|     x   	|      x    	|         |           |
 | Ing. Conocimiento |    x   	|     x   	|      x    	|       	|         	|
 | Admin. y seg redes|    x   	|     x   	|      x    	|        	|         	|
-| Auditoria de redes|    x   	|     x   	|      x    	|        	|     x    	|
+| Auditoria de redes|    x   	|     x   	|      x    	|    x  	|     x    	|
 
