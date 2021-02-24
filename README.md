@@ -3,9 +3,9 @@
 ### Hola compañeros! 👋
 
 
-Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna.
+Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna ✨.
 
-Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones✨.
+Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones ✨.
 
 
 Mis áreas de conocimiento son las siguientes:
