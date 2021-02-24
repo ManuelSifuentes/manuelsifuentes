@@ -26,9 +26,13 @@ Experiencia laboral
 - 🖥 Apoyo en la instalación de gabinetes e instalación de cableado de red.
 
   
+Materias llevadas en 8vo semestre de ingeniería
+|        Dias     	|  Lunes 	|  Martes  	| Miércoles 	| Jueves 	| Viernes 	|
+|-------------------|:--:	|:---:	|:---:	|:---:	|:---:	|
+| C. Distribuido    |    x   	|     x   	|      x    	|    x   	|    x    	|
+| Minería de datos  |    x   	|     x   	|      x    	|    x   	|    x    	|
+| N. Electrónicos   |    x   	|     x   	|      x    	|         |           |
+| Ing. Conocimiento |    x   	|     x   	|      x    	|       	|         	|
+| Admin. y seg redes|    x   	|     x   	|      x    	|        	|         	|
+| Auditoria de redes|    x   	|     x   	|      x    	|        	|     x    	|
 
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
