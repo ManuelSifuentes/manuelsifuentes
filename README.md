@@ -1,7 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5508531.png" width="419" height="68" alt="Ingeniero en TIC" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3775354369">Edit Image</a>
-
-https://images.cooltext.com/5508531.png
+<img src="https://images.cooltext.com/5508531.png" width="419" height="68" alt="Ingeniero en TIC" />
 
 ### Hola compañeros! 👋
 
