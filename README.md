@@ -10,7 +10,7 @@ Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunic
 
 Mis áreas de conocimiento son las siguientes:
 
-- 🔭 Conocimiento técnicos en electrónica
+- 🔭 Conocimientos técnicos en electrónica
 - 🌱 Programación en C#, PHP y Java.
 - 👯 Programación web utilizando HTML, CSS, JS y Ajax.
 - 🤔 Conocimiento intermedio en redes de computadoras.
