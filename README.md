@@ -37,3 +37,4 @@ Materias llevadas en 8vo semestre de ingeniería
 | Auditoria de redes|    x   	|     x   	|      x    	|    x  	|     x    	|
 
 
+Contacto: manuel.sifuentes17@tectijuana.edu.mx :email:
