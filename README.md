@@ -37,6 +37,3 @@ Materias llevadas en 8vo semestre de ingeniería
 | Auditoria de redes|    x   	|     x   	|      x    	|    x  	|     x    	|
 
 
-
-Soy muy fan del anime. Te dejo una lista donde puedes observar todos los que he visto. :tv:
-https://docs.google.com/spreadsheets/d/17O3INyNAj1Xy6chlmQ5NiyqTTKCQkKMWd-wIiW_v8Kk/edit?usp=sharing
